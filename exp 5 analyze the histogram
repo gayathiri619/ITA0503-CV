@@ -17,4 +17,4 @@ def analyze_histogram(image_path):
     plt.ylabel("Frequency")
     plt.legend()
     plt.show()
-analyze_histogram(r"C:\Users\SUPRAJA\Pictures\Screenshots\Screenshot 2026-07-21 111951.png")
+analyze_histogram(r"C:\Users\GAYATHIRI\Pictures\Screenshots\Screenshot 2026-07-21 111951.png")
